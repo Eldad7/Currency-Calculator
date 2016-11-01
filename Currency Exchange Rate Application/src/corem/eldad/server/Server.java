@@ -1,4 +1,4 @@
-/** By Eldad Corem 201263860 & Naama Lapidot 039804562 **/
+/** By Eldad Corem 201263860 **/
 
 package corem.eldad.server;
 
